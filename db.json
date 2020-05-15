@@ -1,29 +1,29 @@
 {
   "produk" : [
     {
-      "merek" : "Supra",
-      "harga" : 5500000,
-      "image" : "supra.png"
+      "merek" : "Supra X",
+      "harga" : 16980000,
+      "image" : "https://cdnhonda.azureedge.net/uploads/products/fitures/62637.png"
     },
     {
       "merek" : "Mio",
-      "harga" : 3400000,
-      "image" : "supra.png"
+      "harga" : 15800000,
+      "image" : "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/motorcycle/Yamaha_Mio_Sporty/Yamaha_Mio_Sporty_L_3.jpg"
     },
     {
       "merek" : "NMax",
-      "harga" : 2500000,
-      "image" : "supra.png"
+      "harga" : 29750000,
+      "image" : "https://s3.amazonaws.com/carmudi-blogs/carmudi-id/wp-content/uploads/2019/12/03122732/All-New-Nmax-155-Standard-Matte-Red.jpg"
     },
     {
       "merek" : "Shogun",
-      "harga" : 3400000,
-      "image" : "supra.png"
+      "harga" : 15600000,
+      "image" : "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/motorcycle/Suzuki_Shogun_Axelo125/Suzuki_Shogun_Axelo125_L_1.jpg"
     },
     {
       "merek" : "Satria",
-      "harga" : 1400000,
-      "image" : "supra.png"
+      "harga" : 24795000,
+      "image" : "https://www.suzuki.co.id//assets/static/img/variant/Satria-MatBlue.png"
     }
   ]
 }
